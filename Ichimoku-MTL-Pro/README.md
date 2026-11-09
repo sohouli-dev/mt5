@@ -5,7 +5,7 @@ Professional Ichimoku indicator for **MetaTrader 5** with up to **8 independent 
 ![Common window](images/common.webp)
 
 > **Developed by:** Parham Sohouli (sohouli.dev)
-> **Build tested with:** MT5 build `____` (fill in before release)
+> **Build tested with:** MT5 build `version : 5.00 build 6272 / 16Oct 2026`
 > **Distribution:** Compiled `.ex5` only (source is not published). Free to use under the [licence](LICENSE).
 > **Status:** Report bugs in Issues.
 
